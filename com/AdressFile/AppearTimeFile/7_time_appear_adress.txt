@@ -1,0 +1,160 @@
+{0x1d91da30b083fc17c5cda25b25819d4b8db27862:
+[
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在$mong,  最早的是第102笔交易,  $mong共有1327笔交易,  交易前7.6%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在BOB,  最早的是第89笔交易,  BOB共有3398笔交易,  交易前2.6%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在tate,  最早的是第32笔交易,  tate共有2467笔交易,  交易前1.3%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在peepo,  最早的是第4笔交易,  peepo共有839笔交易,  交易前0.4%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在genslr,  最早的是第255笔交易,  genslr共有5000笔交易,  交易前5.1%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在pepedoge,  最早的是第277笔交易,  pepedoge共有2293笔交易,  交易前12.0%,
+0x1d91da30b083fc17c5cda25b25819d4b8db27862:  出现在pleb,  最早的是第192笔交易,  pleb共有3090笔交易,  交易前6.2%,
+]
+{0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:
+[
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在$mong,  最早的是第164笔交易,  $mong共有1327笔交易,  交易前12.3%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在papa,  最早的是第967笔交易,  papa共有1873笔交易,  交易前51.6%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在BOB,  最早的是第1039笔交易,  BOB共有3398笔交易,  交易前30.5%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在fkpepe,  最早的是第1995笔交易,  fkpepe共有2191笔交易,  交易前91.0%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在tate,  最早的是第1213笔交易,  tate共有2467笔交易,  交易前49.1%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在genslr,  最早的是第1204笔交易,  genslr共有5000笔交易,  交易前24.1%,
+0xbcbe368e75c77bfec82d4bda216e52efdd0c5a6f:  出现在pepedoge,  最早的是第223笔交易,  pepedoge共有2293笔交易,  交易前9.7%,
+]
+{0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:
+[
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在$mong,  最早的是第136笔交易,  $mong共有1327笔交易,  交易前10.2%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在papa,  最早的是第54笔交易,  papa共有1873笔交易,  交易前2.8%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在BOB,  最早的是第422笔交易,  BOB共有3398笔交易,  交易前12.4%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在wojak,  最早的是第230笔交易,  wojak共有5000笔交易,  交易前4.6%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在kek,  最早的是第408笔交易,  kek共有497笔交易,  交易前81.9%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在fkpepe,  最早的是第12笔交易,  fkpepe共有2191笔交易,  交易前0.5%,
+0xb2cd290b0f0ddfd07fe19f8f5aa1474a51caf922:  出现在pepedoge,  最早的是第772笔交易,  pepedoge共有2293笔交易,  交易前33.6%,
+]
+{0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:
+[
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在BOB,  最早的是第1760笔交易,  BOB共有3398笔交易,  交易前51.8%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在fkpepe,  最早的是第1265笔交易,  fkpepe共有2191笔交易,  交易前57.7%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在pepe,  最早的是第1591笔交易,  pepe共有5000笔交易,  交易前31.8%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在tate,  最早的是第1555笔交易,  tate共有2467笔交易,  交易前63.0%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在genslr,  最早的是第1034笔交易,  genslr共有5000笔交易,  交易前20.7%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在pepedoge,  最早的是第1083笔交易,  pepedoge共有2293笔交易,  交易前47.2%,
+0xeb753e906cad6eef229d6fa0512ea6d02c69ff47:  出现在pleb,  最早的是第635笔交易,  pleb共有3090笔交易,  交易前20.5%,
+]
+{0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:
+[
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在$mong,  最早的是第516笔交易,  $mong共有1327笔交易,  交易前38.8%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在papa,  最早的是第62笔交易,  papa共有1873笔交易,  交易前3.3%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在fkpepe,  最早的是第1302笔交易,  fkpepe共有2191笔交易,  交易前59.4%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在tate,  最早的是第1198笔交易,  tate共有2467笔交易,  交易前48.5%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在peepo,  最早的是第503笔交易,  peepo共有839笔交易,  交易前59.8%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在genslr,  最早的是第2321笔交易,  genslr共有5000笔交易,  交易前46.4%,
+0xfdf28d426cbb88b7cfd3a8aee19ff993e186fe31:  出现在pleb,  最早的是第904笔交易,  pleb共有3090笔交易,  交易前29.2%,
+]
+{0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:
+[
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在BOB,  最早的是第2051笔交易,  BOB共有3398笔交易,  交易前60.3%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在wojak,  最早的是第2133笔交易,  wojak共有5000笔交易,  交易前42.6%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在fkpepe,  最早的是第1738笔交易,  fkpepe共有2191笔交易,  交易前79.3%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在pepe,  最早的是第3729笔交易,  pepe共有5000笔交易,  交易前74.6%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在genslr,  最早的是第1997笔交易,  genslr共有5000笔交易,  交易前39.9%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在pepedoge,  最早的是第1124笔交易,  pepedoge共有2293笔交易,  交易前49.0%,
+0x8b2ae5f05a67859e6d1690d4551894ee83c84ad1:  出现在pleb,  最早的是第2679笔交易,  pleb共有3090笔交易,  交易前86.7%,
+]
+{0x22eef23d58355f08034551f66c194c2752d494c6:
+[
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在$mong,  最早的是第926笔交易,  $mong共有1327笔交易,  交易前69.7%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在papa,  最早的是第128笔交易,  papa共有1873笔交易,  交易前6.8%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在wojak,  最早的是第1509笔交易,  wojak共有5000笔交易,  交易前30.2%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在tate,  最早的是第390笔交易,  tate共有2467笔交易,  交易前15.8%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在peepo,  最早的是第306笔交易,  peepo共有839笔交易,  交易前36.4%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在genslr,  最早的是第947笔交易,  genslr共有5000笔交易,  交易前18.9%,
+0x22eef23d58355f08034551f66c194c2752d494c6:  出现在pleb,  最早的是第1188笔交易,  pleb共有3090笔交易,  交易前38.4%,
+]
+{0x27b36a9aecedee6df3f9dd43b854e15dc783474d:
+[
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在$mong,  最早的是第329笔交易,  $mong共有1327笔交易,  交易前24.7%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在papa,  最早的是第390笔交易,  papa共有1873笔交易,  交易前20.8%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在BOB,  最早的是第2931笔交易,  BOB共有3398笔交易,  交易前86.2%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在kek,  最早的是第435笔交易,  kek共有497笔交易,  交易前87.3%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在pepe,  最早的是第213笔交易,  pepe共有5000笔交易,  交易前4.2%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在peepo,  最早的是第575笔交易,  peepo共有839笔交易,  交易前68.4%,
+0x27b36a9aecedee6df3f9dd43b854e15dc783474d:  出现在pleb,  最早的是第532笔交易,  pleb共有3090笔交易,  交易前17.2%,
+]
+{0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:
+[
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在papa,  最早的是第1284笔交易,  papa共有1873笔交易,  交易前68.5%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在BOB,  最早的是第2305笔交易,  BOB共有3398笔交易,  交易前67.8%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在kek,  最早的是第246笔交易,  kek共有497笔交易,  交易前49.3%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在fkpepe,  最早的是第1143笔交易,  fkpepe共有2191笔交易,  交易前52.1%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在pepe,  最早的是第2732笔交易,  pepe共有5000笔交易,  交易前54.6%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在tate,  最早的是第863笔交易,  tate共有2467笔交易,  交易前34.9%,
+0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6:  出现在pleb,  最早的是第1815笔交易,  pleb共有3090笔交易,  交易前58.7%,
+]
+{0xc09031481886dbfd64df99e3c8ce81fc2424e115:
+[
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在papa,  最早的是第144笔交易,  papa共有1873笔交易,  交易前7.6%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在fkpepe,  最早的是第1671笔交易,  fkpepe共有2191笔交易,  交易前76.2%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在tate,  最早的是第1902笔交易,  tate共有2467笔交易,  交易前77.1%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在peepo,  最早的是第788笔交易,  peepo共有839笔交易,  交易前93.8%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在genslr,  最早的是第1960笔交易,  genslr共有5000笔交易,  交易前39.2%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在pepedoge,  最早的是第1735笔交易,  pepedoge共有2293笔交易,  交易前75.6%,
+0xc09031481886dbfd64df99e3c8ce81fc2424e115:  出现在pleb,  最早的是第908笔交易,  pleb共有3090笔交易,  交易前29.4%,
+]
+{0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:
+[
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在$mong,  最早的是第845笔交易,  $mong共有1327笔交易,  交易前63.6%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在papa,  最早的是第1044笔交易,  papa共有1873笔交易,  交易前55.7%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在fkpepe,  最早的是第1334笔交易,  fkpepe共有2191笔交易,  交易前60.8%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在tate,  最早的是第1621笔交易,  tate共有2467笔交易,  交易前65.7%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在peepo,  最早的是第356笔交易,  peepo共有839笔交易,  交易前42.3%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在genslr,  最早的是第3574笔交易,  genslr共有5000笔交易,  交易前71.5%,
+0x87c8f775ba6c9cb7bb1551d988a1fc4da3bdbae8:  出现在pepedoge,  最早的是第520笔交易,  pepedoge共有2293笔交易,  交易前22.6%,
+]
+{0xd350044e87a7ce167f524f2e137925060f3e190d:
+[
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在$mong,  最早的是第57笔交易,  $mong共有1327笔交易,  交易前4.2%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在BOB,  最早的是第66笔交易,  BOB共有3398笔交易,  交易前1.9%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在wojak,  最早的是第34笔交易,  wojak共有5000笔交易,  交易前0.7%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在kek,  最早的是第318笔交易,  kek共有497笔交易,  交易前63.8%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在pepe,  最早的是第31笔交易,  pepe共有5000笔交易,  交易前0.6%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在pepedoge,  最早的是第377笔交易,  pepedoge共有2293笔交易,  交易前16.4%,
+0xd350044e87a7ce167f524f2e137925060f3e190d:  出现在pleb,  最早的是第146笔交易,  pleb共有3090笔交易,  交易前4.7%,
+]
+{0xb14e787bc11885db2dbbb0a1790a287fcbb44101:
+[
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在papa,  最早的是第671笔交易,  papa共有1873笔交易,  交易前35.8%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在BOB,  最早的是第2806笔交易,  BOB共有3398笔交易,  交易前82.5%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在fkpepe,  最早的是第1959笔交易,  fkpepe共有2191笔交易,  交易前89.4%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在tate,  最早的是第758笔交易,  tate共有2467笔交易,  交易前30.7%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在genslr,  最早的是第2299笔交易,  genslr共有5000笔交易,  交易前46.0%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在pepedoge,  最早的是第932笔交易,  pepedoge共有2293笔交易,  交易前40.6%,
+0xb14e787bc11885db2dbbb0a1790a287fcbb44101:  出现在pleb,  最早的是第1025笔交易,  pleb共有3090笔交易,  交易前33.1%,
+]
+{0x38873f36f7837bf857b0a5d971f676f9d354e1da:
+[
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在$mong,  最早的是第379笔交易,  $mong共有1327笔交易,  交易前28.5%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在BOB,  最早的是第3390笔交易,  BOB共有3398笔交易,  交易前99.7%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在wojak,  最早的是第3499笔交易,  wojak共有5000笔交易,  交易前70.0%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在fkpepe,  最早的是第1323笔交易,  fkpepe共有2191笔交易,  交易前60.3%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在pepe,  最早的是第768笔交易,  pepe共有5000笔交易,  交易前15.3%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在tate,  最早的是第1950笔交易,  tate共有2467笔交易,  交易前79.0%,
+0x38873f36f7837bf857b0a5d971f676f9d354e1da:  出现在genslr,  最早的是第1846笔交易,  genslr共有5000笔交易,  交易前36.9%,
+]
+{0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:
+[
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在papa,  最早的是第307笔交易,  papa共有1873笔交易,  交易前16.3%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在wojak,  最早的是第1217笔交易,  wojak共有5000笔交易,  交易前24.3%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在pepe,  最早的是第3396笔交易,  pepe共有5000笔交易,  交易前67.9%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在tate,  最早的是第1472笔交易,  tate共有2467笔交易,  交易前59.6%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在peepo,  最早的是第831笔交易,  peepo共有839笔交易,  交易前98.9%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在genslr,  最早的是第1525笔交易,  genslr共有5000笔交易,  交易前30.5%,
+0x9a1d313a5b16d4beb9ce0093d4a815f2f4dc8888:  出现在pepedoge,  最早的是第673笔交易,  pepedoge共有2293笔交易,  交易前29.3%,
+]
+{0xa6b86cff41251cc85a33f784c9ea61cf011372d1:
+[
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在papa,  最早的是第1433笔交易,  papa共有1873笔交易,  交易前76.5%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在BOB,  最早的是第1294笔交易,  BOB共有3398笔交易,  交易前38.1%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在wojak,  最早的是第2298笔交易,  wojak共有5000笔交易,  交易前45.9%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在pepe,  最早的是第803笔交易,  pepe共有5000笔交易,  交易前16.0%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在genslr,  最早的是第2103笔交易,  genslr共有5000笔交易,  交易前42.0%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在pepedoge,  最早的是第1774笔交易,  pepedoge共有2293笔交易,  交易前77.3%,
+0xa6b86cff41251cc85a33f784c9ea61cf011372d1:  出现在pleb,  最早的是第1417笔交易,  pleb共有3090笔交易,  交易前45.8%,
+]
